@@ -24,7 +24,7 @@ global.wm = 'rio - Bot';
 global.titulowm = 'rio - Bot';
 global.titulowm2 = `rio - Bot`
 global.igfg = 'rio - Bot';
-global.wait = '*[ ⏳ ] Cargando...*';
+global.wait = '*[ ⏳ ] ...يرجى الانتظار*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
